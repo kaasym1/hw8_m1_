@@ -1,17 +1,49 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="dc186e79-86f6-4235-b722-5fde0e009222" name="Changes" comment="" />
+    <list default="true" id="dc186e79-86f6-4235-b722-5fde0e009222" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw8_m1_.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/logic/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/logic/RPG_Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Berserk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Boss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/GameEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Hacker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/HavingSuperAbility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Hero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Magic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Medic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/SuperAbility.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/kg/geeks/game/players/Warrior.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="2jsBpN2H1fLPPDQNYDg8dI6HT0L" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,16 +65,5 @@
       <updated>1722166085930</updated>
     </task>
     <servers />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Main.java</url>
-          <line>13</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
